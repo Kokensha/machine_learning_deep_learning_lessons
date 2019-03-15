@@ -10,6 +10,16 @@
 
 ## 多層人工ニューラルネットワーク
 
+## 単層パーセプトロン
+
+## 多層パーセプトロン（MLP:Multi-layer Perceptron）
+
+* 入力層（input layer）
+
+* 隠れ層（hidden layer）
+
+* 出力層（output layer）
+
 ## 人工ニューラルネットワークの構造
 
 * 線形変換
