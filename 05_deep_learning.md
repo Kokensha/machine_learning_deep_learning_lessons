@@ -37,7 +37,7 @@
 
 ## フレームワーク
 
-* [TensorFlow](https://github.com/tensorflow/tensorflow)　LISENCE： [Apache-2.0](https://github.com/tensorflow/tensorflow/blob/master/LICENSE)
+* [TensorFlow](https://github.com/tensorflow/tensorflow)　LISENCE： [Apache-2.0 and others](https://github.com/tensorflow/tensorflow/blob/master/LICENSE)
 
 * [Keras](https://github.com/keras-team/keras)　LISENCE： [MIT and others](https://github.com/keras-team/keras/blob/master/LICENSE)
 
