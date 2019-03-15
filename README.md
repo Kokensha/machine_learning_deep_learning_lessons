@@ -8,7 +8,7 @@
 
 # [機械学習](machinelearning.md)
 
-# [人工ニューラルネットワーク](artificialneuralnetwork)
+# [人工ニューラルネットワーク](artificialneuralnetwork.md)
 
 # [深層学習](deeplearning.md)
 
