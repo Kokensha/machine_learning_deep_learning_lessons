@@ -15,4 +15,4 @@
 # [深層学習](deep_learning.md)
 
 
-Made with love by [Kokensha](https://kokensha.xyz)
+Made with love by [https://kokensha.xyz](https://kokensha.xyz)
