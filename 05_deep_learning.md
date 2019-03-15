@@ -37,11 +37,11 @@
 
 ## フレームワーク
 
-* TensorFlow
+* [TensorFlow](https://github.com/tensorflow)　LISENCE： [Apache-2.0](https://github.com/tensorflow/tensorflow/blob/master/LICENSE)
 
-* Keras
+* [Keras](https://github.com/keras-team/keras)　LISENCE： [MIT and others](https://github.com/keras-team/keras/blob/master/LICENSE)
 
-* PyTorch
+* [PyTorch](https://github.com/pytorch/pytorch)　LISENCE：[Facebook and others](https://github.com/pytorch/pytorch/blob/master/LICENSE)
 
-* Chainer
+* [Chainer](https://github.com/chainer/chainer)LISENCE：[MIT and Preferred Networks, Preferred Infrastructure](https://github.com/chainer/chainer/blob/master/LICENSE)
 
