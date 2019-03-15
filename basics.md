@@ -33,9 +33,7 @@
 
 ## Pythonの基礎
 
-* 環境構築
-
-[機械学習・深層学習のためのPython環境構築](https://kokensha.xyz/ml/anaconda-install-to-pc-for-machine-learning-and-deep-learning/)
+* 環境構築：[機械学習・深層学習のためのPython環境構築（PC版）](https://kokensha.xyz/ml/anaconda-install-to-pc-for-machine-learning-and-deep-learning/)
 
 * ループ
 
