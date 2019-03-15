@@ -8,11 +8,11 @@
 
 # [機械学習・深層学習の基礎](basics.md)
 
-# [機械学習](machinelearning.md)
+# [機械学習](machine_learning.md)
 
-# [人工ニューラルネットワーク](artificialneuralnetwork.md)
+# [人工ニューラルネットワーク](artificial_neural_network.md)
 
-# [深層学習](deeplearning.md)
+# [深層学習](deep_learning.md)
 
 
 
