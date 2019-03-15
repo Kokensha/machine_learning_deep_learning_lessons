@@ -38,6 +38,10 @@
 
 ## Pythonの基礎
 
+* 環境構築
+
+[機械学習・深層学習のためのPython環境構築](https://kokensha.xyz/ml/anaconda-install-to-pc-for-machine-learning-and-deep-learning/)
+
 ### ループ
 
 ### 配列操作
