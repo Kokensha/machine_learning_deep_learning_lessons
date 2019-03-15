@@ -1,5 +1,9 @@
 機械学習・深層学習レッスンの構成案
 
+machine learning and deep learning lessons. 
+
+初心のための一番分かりやすい、効果的な「機械学習・深層学習」教材を目指しています。
+
 # 目次
 
 # [01 人工知能の歴史](01_ai_history.md)
