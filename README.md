@@ -4,7 +4,7 @@
 
 # 人工知能の歴史
 
-<img src="assets/00.png" alt="AIのトピック" width="200">
+<img src="assets/00.png" alt="AIのトピック" width="300">
 
 # [機械学習・深層学習の基礎](basics.md)
 
