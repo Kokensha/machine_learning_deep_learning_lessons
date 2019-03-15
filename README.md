@@ -2,7 +2,7 @@
 
 # 目次
 
-# 人工知能の歴史
+# [人工知能の歴史](ai_history.md)
 
 <img src="assets/00.png" alt="AIのトピック" width="300">
 
@@ -15,4 +15,4 @@
 # [深層学習](deep_learning.md)
 
 
-
+Made with love by [Kokensha](https://kokensha.xyz)
