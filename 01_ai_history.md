@@ -12,20 +12,20 @@
 
 * パーセプトロンは形式ニューロンの実装です。
 
-## 1974年-1986年 逆伝播（バックプロパゲーション：Back propogation)
+## 1974年-1986年 逆伝播（バックプロパゲーション：Back propagation)
 
 * ニューラルネットの学習を理解するための重要な概念
 
 ## 1989年 LeNet 畳み込みニューラルネットワーク(CNN)
 
-* ヤン・ルカン（twitter:https://twitter.com/ylecun）
+* ヤン・ルカン(twitter:https://twitter.com/ylecun)
 * 2019年3月 チューニング賞受賞
 
 ## 1989年-1998年 MNIST LSTM B-RNN
 
 ## 2006年 深層学習（Deep Learning）
 
-* ディープラーニングの父と称されるジェフリー・ヒントン（twitter:https://twitter.com/geoffreyhinton）に提唱された手法
+* ディープラーニングの父と称されるジェフリー・ヒントン(twitter:https://twitter.com/geoffreyhinton) に提唱された手法
 * 2019年3月 チューニング賞受賞
 
 ## 2009年 ImageNet
