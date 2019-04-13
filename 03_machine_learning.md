@@ -23,7 +23,7 @@
 
 もっともよく知られているクラスタリングアルゴリズムの１つです。
 
-* (ニューラルネットワーク)[]
+* [ニューラルネットワーク](https://github.com/Kokensha/machine_learning_deep_learning_lessons/blob/master/04_artificial_neural_network.md)
 
 
 #### 回帰
@@ -36,7 +36,7 @@
 
 * SVM回帰
 
-* ニューラルネットワーク
+* [ニューラルネットワーク](https://github.com/Kokensha/machine_learning_deep_learning_lessons/blob/master/04_artificial_neural_network.md)
 
 
 ### 教師なし学習
