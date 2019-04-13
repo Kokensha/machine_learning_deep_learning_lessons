@@ -20,6 +20,8 @@
 
 ## 2006年 深層学習（Deep Learning）
 
+## 2009年 ImageNet
+
 ## 2012年 AlexNet, ドロップアウト（Dropout）
 
 * ディープラーニングの重要なマイルストーン
