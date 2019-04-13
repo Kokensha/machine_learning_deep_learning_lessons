@@ -24,7 +24,7 @@
 
 ## 2006年 深層学習（Deep Learning）
 
-* ジェフリー・ヒントン（twitter:https://twitter.com/geoffreyhinton）に提唱された手法
+* ジェフリー・ヒントン（twitter:https://twitter.com/geoffreyhinton）に提唱された手法 2019年3月 チューニング賞受賞
 
 ## 2009年 ImageNet
 
