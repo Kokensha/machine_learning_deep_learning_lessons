@@ -7,11 +7,11 @@
 ## 学習の種類
 
 
-### 教師あり学習
+### 教師あり学習(supervised learning)
 
 タスク
 
-#### 分類
+#### 分類(classification)
 
 * 決定木(decision tree)
 
@@ -26,7 +26,7 @@
 * [ニューラルネットワーク](https://github.com/Kokensha/machine_learning_deep_learning_lessons/blob/master/04_artificial_neural_network.md)
 
 
-#### 回帰
+#### 回帰(regression)
 
 * ロジスティック回帰
 
@@ -39,11 +39,11 @@
 * [ニューラルネットワーク](https://github.com/Kokensha/machine_learning_deep_learning_lessons/blob/master/04_artificial_neural_network.md)
 
 
-### 教師なし学習
+### 教師なし学習(unsupervised learning)
 
 タスク
 
-#### クラスタリング
+#### クラスタリング(clustering)
 
 * k-平均法（k-means）
 
