@@ -45,3 +45,24 @@
 
 * [Chainer](https://github.com/chainer/chainer) LISENCE：[MIT and Preferred Networks, Preferred Infrastructure](https://github.com/chainer/chainer/blob/master/LICENSE)
 
+## 深層学習の応用
+
+* 顔認識
+
+* 画像分類
+
+* 音声認識
+
+* Text-to-speech変換
+
+* 手書き文字認識変換
+
+* 機械翻訳
+
+* 医療診断
+
+* 自動運転（歩行者、標識、車道認識）
+
+* 広告レコメンデーション
+
+* 画像、動画生成
