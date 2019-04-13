@@ -16,11 +16,11 @@
 
 * ニューラルネットの学習を理解するための重要な概念
 
-## 1989年 LeNet
+## 1989年 LeNet 畳み込みニューラルネットワーク(CNN)
 
-* ルーガンのグループ
+* ヤン・ルカン（twitter:https://twitter.com/ylecun）2019年3月 チューニング賞受賞
 
-## 1989年-1998年 畳み込みニューラルネットワーク(CNN) MNIST LSTM B-RNN
+## 1989年-1998年 MNIST LSTM B-RNN
 
 ## 2006年 深層学習（Deep Learning）
 
