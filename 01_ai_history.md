@@ -16,9 +16,15 @@
 
 * ニューラルネットの学習を理解するための重要な概念
 
+## 1989年 LeNet
+
+* ルーガンのグループ
+
 ## 1989年-1998年 畳み込みニューラルネットワーク(CNN) MNIST LSTM B-RNN
 
 ## 2006年 深層学習（Deep Learning）
+
+* ジェフリー・ヒントン（twitter:https://twitter.com/geoffreyhinton）に提唱された手法
 
 ## 2009年 ImageNet
 
