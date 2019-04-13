@@ -19,7 +19,7 @@
 ## 1989年 LeNet 畳み込みニューラルネットワーク(CNN)
 
 * ヤン・ルカン(twitter:https://twitter.com/ylecun)
-* 2019年3月 チューニング賞受賞
+* 2019年3月 チューニング賞受賞(https://youtu.be/BWIV5xQoYbA)
 
 ## 1989年-1998年 MNIST LSTM B-RNN
 
