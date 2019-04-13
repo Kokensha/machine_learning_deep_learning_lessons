@@ -18,13 +18,15 @@
 
 ## 1989年 LeNet 畳み込みニューラルネットワーク(CNN)
 
-* ヤン・ルカン（twitter:https://twitter.com/ylecun）2019年3月 チューニング賞受賞
+* ヤン・ルカン（twitter:https://twitter.com/ylecun）
+* 2019年3月 チューニング賞受賞
 
 ## 1989年-1998年 MNIST LSTM B-RNN
 
 ## 2006年 深層学習（Deep Learning）
 
-* ディープラーニングの父と称されるジェフリー・ヒントン（twitter:https://twitter.com/geoffreyhinton）に提唱された手法 2019年3月 チューニング賞受賞
+* ディープラーニングの父と称されるジェフリー・ヒントン（twitter:https://twitter.com/geoffreyhinton）に提唱された手法
+* 2019年3月 チューニング賞受賞
 
 ## 2009年 ImageNet
 
