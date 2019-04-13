@@ -1,31 +1,33 @@
 # 人工知能の歴史
 
-## 形式ニューロン
+## 1943年 形式ニューロン
 
-## 1943 ニューラルネットワーク
+* いわゆる人口ニューロン（artificial neuron）
 
-## 1957 パーセプトロン（Perceptron）
+## 1943年 ニューラルネットワーク（Neural Network）
+
+## 1957年 パーセプトロン（Perceptron）
 
 * パーセプトロンは形式ニューロンの実装です。
 
-## 1974-1986 逆伝播（バックプロパゲーション：Back propogation)
+## 1974年-1986年 逆伝播（バックプロパゲーション：Back propogation)
 
 * ニューラルネットの学習を理解するための重要な概念
 
-## 1989-1998 CNN MNIST LSTM B-RNN
+## 1989年-1998年 CNN MNIST LSTM B-RNN
 
-## 2006 深層学習（Deep Learning）
+## 2006年 深層学習（Deep Learning）
 
-## 2012 AlexNet, ドロップアウト（Dropout）
+## 2012年 AlexNet, ドロップアウト（Dropout）
 
 * ディープラーニングの重要なマイルストーン
 
-## 2014 GANs
+## 2014年 GANs
 
-## 2014 DeepFace
+## 2014年 DeepFace
 
-## 2016 AlphaGo
+## 2016年 AlphaGo
 
-## 2018 BERT 
+## 2018年 BERT 
 
 * https://github.com/google-research/bert
