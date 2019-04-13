@@ -30,7 +30,7 @@
 
 * ロジスティック回帰
 
-* k近傍法（k-nearest neighbor algorithm, k-NN）
+* k-近傍法（k-nearest neighbor algorithm, k-NN）
 
 * ランダムフォレスト回帰(random forest)
 
