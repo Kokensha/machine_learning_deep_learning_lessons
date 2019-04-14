@@ -1,5 +1,7 @@
 # 04 人工ニューラルネットワーク
 
+[人工知能の歴史のところを参照](https://github.com/Kokensha/machine_learning_deep_learning_lessons/blob/master/01_ai_history.md)
+
 * 生物ニューロン（脳神経細胞・シナプス） -> 生物ニューラルネットワーク（動物や人間の神経ネットワーク、脳）
 
 * 人工ニューロン
