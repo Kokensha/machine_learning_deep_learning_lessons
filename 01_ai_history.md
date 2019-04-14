@@ -38,6 +38,8 @@
 
 * http://static.googleusercontent.com/media/research.google.com/ja//archive/unsupervised_icml2012.pdf
 
+* YouTubeの映像を学習させて、人間の顔に反応するニューロンの平均画像と猫の顔に反応するニューロンの平均画像を獲得
+
 ## 2014年 GANs
 
 ## 2014年 DeepFace
