@@ -34,6 +34,10 @@
 
 * ディープラーニングの重要なマイルストーン
 
+## 2012年 Googleの猫
+
+* http://static.googleusercontent.com/media/research.google.com/ja//archive/unsupervised_icml2012.pdf
+
 ## 2014年 GANs
 
 ## 2014年 DeepFace
