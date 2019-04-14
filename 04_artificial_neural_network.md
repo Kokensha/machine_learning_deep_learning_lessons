@@ -69,7 +69,6 @@
 
 * 確率勾配降下法 (SDG:Stochastic Gradient Descent)
 
-## 逆伝播
+* 誤差逆伝播法（一般的に使われている）
 
-* 誤差逆伝播法
 
