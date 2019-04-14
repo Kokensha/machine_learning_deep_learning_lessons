@@ -2,7 +2,7 @@
 
 * ディープラーニングの歴史とも言えるかもしれません。
 
-## 1943年 形式ニューロン
+## 1943年 形式ニューロン（第１期ブーム）
 
 * McCullochとPittsが形式ニューロンモデルを発表
 
@@ -16,7 +16,7 @@
 
 * ミンスキーが単純パーセプトロン（simple perceptron）は「線形分離不可能」なパターンを識別できない問題を指摘、第１次ニューラルネットワークブームが終焉します。
 
-## 1974年-1986年 誤差逆伝播法（バックプロパゲーション：Back propagation)
+## 1974年-1986年 誤差逆伝播法（バックプロパゲーション：Back propagation)（第2期ブーム）
 
 * ラメルハート（Rumelhart）が多層パーセプトロンにバックプロパゲーションの手法を導入
 
@@ -25,13 +25,17 @@
 ## 1989年 LeNet 畳み込みニューラルネットワーク(CNN)
 
 * ヤン・ルカンたたみこむニューラルネットワークを提案(twitter:https://twitter.com/ylecun)
+
 * 2019年3月 チューニング賞受賞
 
 ## 1989年-1998年 MNIST LSTM B-RNN
 
-## 2006年 深層学習（Deep Learning）
+## 2006年 深層学習（Deep Learning）(第３期ブーム)
+
+* Deep Neural Network
 
 * ディープラーニングの父と称されるジェフリー・ヒントン(twitter:https://twitter.com/geoffreyhinton) に提唱された手法
+
 * 2019年3月 チューニング賞受賞(https://youtu.be/BWIV5xQoYbA)
 
 ## 2009年 ImageNet
