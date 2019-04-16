@@ -68,7 +68,7 @@
 
 * 交差エントロピー誤差(cross entropy error)：回帰問題によく利用される
 
-<img src="https://latex.codecogs.com/gif.latex?交差エントロピー=-\sum_{x}p(x)\log q(x)>
+<img src="https://latex.codecogs.com/gif.latex?=-\sum_{x}p(x)\log q(x)>
 
 * 公差エントロピーはどこから来たか？ →
 
