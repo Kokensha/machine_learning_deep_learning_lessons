@@ -78,7 +78,7 @@
 
 ### 勾配降下法 (GD:Gradient Descent)
 
-* 勾配降下法の課題 谷での振動、プラトーでの停止、絶壁での反射
+* 勾配降下法の課題：谷での振動、プラトー（Plateau：高原）での停止、絶壁での反射
 
 * 確率勾配降下法 (SDG:Stochastic Gradient Descent) 
 
