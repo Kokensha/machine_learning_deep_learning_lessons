@@ -78,7 +78,9 @@
 
 ### 勾配降下法 (GD:Gradient Descent)
 
-* 確率勾配降下法 (SDG:Stochastic Gradient Descent)
+* 勾配降下法の課題 谷での振動、プラトーでの停止、絶壁での反射
+
+* 確率勾配降下法 (SDG:Stochastic Gradient Descent) 
 
 * モーメンタム（momentum）振動を防ぐ
 
