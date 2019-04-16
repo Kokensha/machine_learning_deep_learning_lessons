@@ -66,9 +66,9 @@
 
 #### 損失関数の種類
 
-* 交差エントロピー誤差(cross entropy error)
+* 交差エントロピー誤差(cross entropy error)：回帰問題によく利用される
 
-* 二乗和誤差(mean square error)
+* 二乗和誤差(mean square error)：分類問題によく利用される
 
 ## 人工ニューラルネットワークの学習
 
