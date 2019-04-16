@@ -68,9 +68,7 @@
 
 * 交差エントロピー誤差(cross entropy error)：回帰問題によく利用される
 
-<img src="https://latex.codecogs.com/gif.latex?$$E=-\sum_{x}p(x)\log q(x)$$">
-
-* 公差エントロピーはどこから来たか？ →
+* 交差エントロピーはどこから来たか？ →エントロピー→交差エントロピー
 
 * 二乗和誤差(mean square error)：分類問題によく利用される
 
