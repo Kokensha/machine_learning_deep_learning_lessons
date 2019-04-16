@@ -132,7 +132,7 @@
 
 * 自然勾配法
 
-#### フレームワークのOptimizer
+#### 各フレームワークのOptimizer
 
 * (Google)TensorFlow 2 : https://www.tensorflow.org/versions/r2.0/api_docs/python/tf/optimizers
 
