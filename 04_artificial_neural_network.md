@@ -132,3 +132,12 @@
 
 * 自然勾配法
 
+#### フレームワークのOptimizer
+
+* (Google)TensorFlow 2 : https://www.tensorflow.org/versions/r2.0/api_docs/python/tf/optimizers
+
+* (Preffered Networks)Chainer : https://docs.chainer.org/en/stable/reference/optimizers.html
+
+* (Facebook)PyTorch : https://pytorch.org/docs/stable/optim.html
+
+* (Microsoft)CNTK : https://cntk.ai/pythondocs/cntk.learners.html
