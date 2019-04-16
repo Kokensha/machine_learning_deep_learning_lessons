@@ -68,6 +68,12 @@
 
 * 交差エントロピー誤差(cross entropy error)：回帰問題によく利用される
 
+{ \displaystyle
+交差エントロピー=-\sum_{x}p(x)\log q(x)
+}
+
+* 公差エントロピーはどこから来たか？ →
+
 * 二乗和誤差(mean square error)：分類問題によく利用される
 
 ## 人工ニューラルネットワークの学習
