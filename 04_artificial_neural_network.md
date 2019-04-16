@@ -72,7 +72,29 @@
 
 ## 人工ニューラルネットワークの学習
 
+* 損失関数を最小化
+
 * 解析的に解く→解析解、数値的に解く→数値解
+
+### 勾配降下法 (GD:Gradient Descent)
+
+* 確率勾配降下法 (SDG:Stochastic Gradient Descent)
+
+* モーメンタム（momentum）振動を防ぐ
+
+* ネステロフの加速勾配法（Nestrov's accelerated gradient method）
+
+* AdaGrad
+
+* RMSProp(ヒントンの講義)
+
+* AdaDelta
+
+* Adam
+
+* 自然勾配法
+
+
 
 ### 微分
 
@@ -86,7 +108,7 @@
 
 ### 学習率（学習係数）
 
-### 確率勾配降下法 (SDG:Stochastic Gradient Descent)
+
 
 ### 誤差逆伝播法（一般的に使われている）
 
