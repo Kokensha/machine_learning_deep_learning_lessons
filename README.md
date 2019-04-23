@@ -19,4 +19,6 @@ machine learning and deep learning lessons.
 # [05 深層学習](05_deep_learning.md)
 
 
+# [機械学習と深層学習勉強のリソース](https://gist.github.com/kawashimaken/7b7daf57a503bf73d94d0f7fe6bced9b)
+
 Made with love by [https://kokensha.xyz](https://kokensha.xyz)
