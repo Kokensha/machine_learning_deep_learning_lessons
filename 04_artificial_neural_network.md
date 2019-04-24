@@ -60,7 +60,7 @@
 
 * シグモイド関数(sigmoid)
 
-* ReLu
+* ReLu（Rectified Linear function:正規化線形関数）
 
 ### 損失関数（loss function）/目的関数、コスト関数（cost function）
 
