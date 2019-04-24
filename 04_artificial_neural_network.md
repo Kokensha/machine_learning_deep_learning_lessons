@@ -62,7 +62,9 @@
 
 * ReLU（rectified linear unit -> rectified linear function:正規化線形関数）
 
-<img src="assets/04-relu_formula.png" alt="ReLU" width="600">
+<img src="assets/04-relu_formula.png" alt="ReLU数式" width="600">
+
+<img src="assets/04-relu_graph.png" alt="ReLUグラフ" width="600">
 
 ### 損失関数（loss function）/目的関数、コスト関数（cost function）
 
