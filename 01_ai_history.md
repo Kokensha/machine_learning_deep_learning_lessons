@@ -52,6 +52,11 @@
 
 * YouTubeの映像を学習させて、人間の顔に反応するニューロンの平均画像と猫の顔に反応するニューロンの平均画像を獲得
 
+
+<img src="https://1.bp.blogspot.com/-VENOsYD1uJc/T-nkLAiANtI/AAAAAAAAJWc/2KCTl3OsI18/s320/cat+detection.jpeg" withd="600">
+
+引用先： Googleのブログ：https://googleblog.blogspot.com/2012/06/using-large-scale-brain-simulations-for.html
+
 ## 2014年 GANs
 
 ## 2014年 DeepFace
