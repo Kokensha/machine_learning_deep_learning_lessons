@@ -67,3 +67,7 @@
 ## 2018年 BERT 
 
 * https://github.com/google-research/bert
+
+## 2019年3月27日（米国時間）
+
+* 人工知能（ディープラーニング）分野先駆者の３人Yoshua Bengio、Geoffrey Hinton、Yann LeCunが2018年の「A.M.チューリング賞（A.M. Turing Award）」受賞
