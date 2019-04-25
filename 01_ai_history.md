@@ -70,4 +70,4 @@
 
 ## 2019年3月27日（米国時間）
 
-* 人工知能（ディープラーニング）分野先駆者の３人Yoshua Bengio、Geoffrey Hinton([Twitter](https://twitter.com/geoffreyhinton))、Yann LeCunが2018年の「A.M.チューリング賞（A.M. Turing Award）」受賞
+* 人工知能（ディープラーニング）分野先駆者の３人Yoshua Bengio、Geoffrey Hinton([Twitter](https://twitter.com/geoffreyhinton))、Yann LeCun([Twitter](https://twitter.com/ylecun))が2018年の「A.M.チューリング賞（A.M. Turing Award）」受賞
