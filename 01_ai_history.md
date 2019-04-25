@@ -48,10 +48,9 @@
 
 ## 2012年 Googleの猫
 
-* http://static.googleusercontent.com/media/research.google.com/ja//archive/unsupervised_icml2012.pdf
+* 論文PDF:　http://static.googleusercontent.com/media/research.google.com/ja//archive/unsupervised_icml2012.pdf
 
 * YouTubeの映像を学習させて、人間の顔に反応するニューロンの平均画像と猫の顔に反応するニューロンの平均画像を獲得
-
 
 <img src="https://1.bp.blogspot.com/-VENOsYD1uJc/T-nkLAiANtI/AAAAAAAAJWc/2KCTl3OsI18/s320/cat+detection.jpeg" withd="600">
 
