@@ -14,6 +14,10 @@
 
 * ローゼンブラット（RosenBlatt）がパーセプトロンを発表、パーセプトロンは形式ニューロンの実装
 
+<img src="assets/04-perceptron.png" alt="MLP" width="600">
+
+<img src="assets/04-perceptron2.png" alt="MLP" width="600">
+
 ### 単層パーセプトロン 
 
 線形分離可能な問題に限られています。 ->多層パーセプトロン
