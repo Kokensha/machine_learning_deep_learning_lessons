@@ -14,9 +14,9 @@
 
 * ローゼンブラット（RosenBlatt）がパーセプトロンを発表、パーセプトロンは形式ニューロンの実装
 
-<img src="assets/04-perceptron.png" alt="MLP" width="600">
+<img src="assets/04-perceptron.png" alt="perceptron" width="600">
 
-<img src="assets/04-perceptron2.png" alt="MLP" width="600">
+<img src="assets/04-perceptron2.png" alt="perceptron with two inputs" width="600">
 
 ### 単層パーセプトロン 
 
