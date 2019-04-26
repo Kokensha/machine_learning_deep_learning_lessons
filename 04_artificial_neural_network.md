@@ -26,11 +26,13 @@
 
 * フォーワードプロパーゲーション（forward propagation）の話と混同しないで
 
+<img src="assets/04-mlp.png" alt="MLP" width="600">
+
 ### 入力層（input layer）
 
 * 入力層と隠れ層が完全結合
 
-### 隠れ層（hidden layer）
+### 隠れ層（hidden layer）あるいは中間層
 
 * 隠れ層が１つ以上存在する場合をディープ人口ニューラルネットワークと呼ばれることもある
 
