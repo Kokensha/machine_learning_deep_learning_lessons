@@ -14,9 +14,15 @@
 
 * ローゼンブラット（RosenBlatt）がパーセプトロンを発表、パーセプトロンは形式ニューロンの実装
 
+* 入力が一つの場合
+
 <img src="assets/04-perceptron.png" alt="perceptron" width="600">
 
+* 入力が二つの場合
+
 <img src="assets/04-perceptron2.png" alt="perceptron with two inputs" width="600">
+
+同じ原理で、入力は複数個になっても良いです。実際に深層学習のニューラルネットワークでは、数百、数千、数万の入力があるのも普通です。
 
 ### 単層パーセプトロン 
 
