@@ -86,6 +86,8 @@
 
 * シグモイド関数(sigmoid)
 
+<img src="assets/04-sigmoid_formula.png" alt="sigmoid数式" width="600">
+
 * ReLU（rectified linear unit -> rectified linear function:正規化線形関数）
 
 <img src="assets/04-relu_formula.png" alt="ReLU数式" width="600">
