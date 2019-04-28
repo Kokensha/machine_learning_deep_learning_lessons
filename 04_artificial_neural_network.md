@@ -104,7 +104,9 @@
 
 #### 損失関数の種類
 
-* 損失関数の場所は？　→　人口ニューラルネットワークの出力層で
+* 損失関数の場所は？　→　人口ニューラルネットワークの出力層の後（softmaxを挟むことが多い）
+
+<img src="assets/04-softmax_and_loss_function.png" alt="ReLUグラフ" width="600">
 
 * 交差エントロピー誤差(cross entropy error)：回帰問題によく利用される
 
