@@ -28,6 +28,10 @@
 
 <img src="assets/04-perceptron3.png" alt="perceptron with many inputs" width="600">
 
+* 活性化関数を被った場合
+
+<img src="assets/04-perceptron4.png" alt="perceptron with many inputs" width="600">
+
 ### 単層パーセプトロン 
 
 線形分離可能な問題に限られています。 ->多層パーセプトロン
