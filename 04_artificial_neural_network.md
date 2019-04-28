@@ -110,6 +110,8 @@
 
 * 交差エントロピー誤差(cross entropy error)：回帰問題によく利用される
 
+<img src="assets/04-cross_entropy.png" alt="cross_entropy_formula" width="600">
+
 * 交差エントロピーはどこから来たか？ →　エントロピー　→　交差エントロピー
 
 * 二乗和誤差(mean square error)：分類問題によく利用される
