@@ -30,9 +30,13 @@
 
 これを線形代数の行列の内積で、「表現」することができます。
 
-* 活性化関数を被った場合
+* 活性化関数を適用した場合
 
 <img src="assets/04-perceptron4.png" alt="perceptron with many inputs" width="600">
+
+パーセプトロンの中はまず入力とそれぞれの重み付けの掛け算の和を求め、その後活性化関数を適用する。多層ニューラルネットワークでは、層ごとに活性化関数を指定するのが一般的である。
+
+<img src="assets/04-perceptron5.png" alt="perceptron with many inputs" width="600">
 
 この後も活性化関数を詳しく説明する。
 
