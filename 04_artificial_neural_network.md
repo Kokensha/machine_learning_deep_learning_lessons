@@ -28,6 +28,8 @@
 
 <img src="assets/04-perceptron3.png" alt="perceptron with many inputs" width="600">
 
+これを線形代数の行列の内積で、「表現」することができます。
+
 * 活性化関数を被った場合
 
 <img src="assets/04-perceptron4.png" alt="perceptron with many inputs" width="600">
