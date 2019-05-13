@@ -128,7 +128,7 @@
 
 * 損失関数を最小化 → 損失関数値を減らす方向を知りたい → 勾配が分かれば、傾きが分かる → パラメータを更新する方向が分かる → 勾配法 → 今はほとんど誤差逆伝播法（back propagation） 
 
-<img src="assets/04-gradient.png" alt="perceptron" width="600">
+<img src="assets/04-gradient2.png" alt="perceptron" width="600">
 
 * 解析的に解く → 解析解、数値的に解く → 数値解
 
@@ -151,6 +151,8 @@
 ### 学習率（学習係数）
 
 * learning rate 一回の学習で、どのぐらいパラメータを更新すべきか（更新量）を決める
+
+<img src="assets/04-gradient3.png" alt="perceptron" width="600">
 
 ### 誤差逆伝播法:back propagation（一般的に使われている）
 
