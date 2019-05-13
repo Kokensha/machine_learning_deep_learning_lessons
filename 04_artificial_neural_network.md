@@ -36,6 +36,10 @@
 
 パーセプトロンの中はまず入力とそれぞれの重み付けの掛け算の和を求め、その後活性化関数を適用する。多層ニューラルネットワークでは、層ごとに活性化関数を指定するのが一般的である。
 
+* バイアスがある場合
+
+<img src="assets/04-perceptron6.png" alt="perceptron with many inputs" width="600">
+
 <img src="assets/04-perceptron5.png" alt="perceptron with many inputs" width="600">
 
 この後も活性化関数を詳しく説明する。
