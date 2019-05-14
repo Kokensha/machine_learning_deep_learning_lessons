@@ -2,7 +2,7 @@
 
 ## 深層学習のアルゴリズム
 
-### CNN
+### CNN(Convolutional Nueral Network)畳み込みニューラルネットワーク
 
 代表
 
@@ -30,7 +30,7 @@
 
 ### Auto-Encoder
 
-### GAN
+### GAN（Ganerative Adversarial Network）
 
 ### 深層強化学習
 
@@ -46,23 +46,83 @@
 
 ## 深層学習の応用
 
-* 顔認識
+### 数値データ
 
-* 画像分類
+#### 広告レコメンデーション
 
-* 音声認識
+### 画像・映像データ
 
-* Text-to-speech変換
+#### 手書き文字認識変換
 
-* 手書き文字認識変換
+#### 顔認識
 
-* 機械翻訳
+#### 画像分類（りんごかミカンか、犬か猫か）
 
-* 医療診断
+#### 医療診断（画像で、レントゲン画像で腫瘍や病変を見つける）
 
-* 自動運転（歩行者、標識、車道認識）
+* 早期胃がん領域の高精度検出：https://www.ncc.go.jp/jp/information/pr_release/2018/0721/index.html
 
-* 広告レコメンデーション
+#### 物体認識（Object detection）
 
-* 画像、動画生成
+* YOLO
+
+#### 自動運転（歩行者、標識、車道認識）
+
+* Tesla
+
+* Waymo
+
+#### 人のポーズの検出
+
+* https://github.com/tensorflow/tfjs-models/tree/master/posenet
+
+### 言語音声データ
+
+NPL(Natrual Language Processing):自然言語処理
+
+* Googleの BERT
+
+https://github.com/google-research/bert
+
+* Baiduの　ERNIE
+
+https://github.com/PaddlePaddle/LARK/tree/develop/ERNIE 
+
+http://research.baidu.com/Blog/index-view?id=113
+
+#### 音声認識
+
+#### Text-to-speech変換
+
+#### 機械翻訳
+
+* Google翻訳：https://translate.google.com
+
+2016年9月GNMT/Google Neural Machine Translationを導入した（https://ai.googleblog.com/2016/09/a-neural-network-for-machine.html）
+
+GNMTについての論文：https://arxiv.org/abs/1609.08144
+
+論文のPDF：https://arxiv.org/pdf/1609.08144.pdf
+
+#### 文章生成
+
+* GPT-2:https://github.com/openai/gpt-2
+
+#### 対話ボット
+
+* FAQ対応、予約対応、コールセンター業務
+
+### 生成
+
+GAN（Ganerative Adversarial Network）
+
+#### 画像、動画生成
+
+* https://crypko.ai/#/
+
+* 人の顔の合成：https://thispersondoesnotexist.com/
+
+* deep fake:https://www.youtube.com/watch?v=cQ54GDm1eL0
+
+
 
