@@ -2,7 +2,7 @@
 
 ## 深層学習のアルゴリズム
 
-### CNN
+### CNN(Convolutional Nueral Network)畳み込みニューラルネットワーク
 
 代表
 
@@ -30,7 +30,7 @@
 
 ### Auto-Encoder
 
-### GAN
+### GAN（Ganerative Adversarial Network）
 
 ### 深層強化学習
 
@@ -102,7 +102,9 @@ GNMTについての論文：https://arxiv.org/abs/1609.08144
 
 * FAQ対応、予約対応、コールセンター業務
 
-### 生成　GAN（Ganerative Adversarial Network）
+### 生成
+
+GAN（Ganerative Adversarial Network）
 
 #### 画像、動画生成
 
