@@ -104,7 +104,7 @@ http://research.baidu.com/Blog/index-view?id=113
 
 * NIOの音声コマンド
 
-
+<img src="assets/05-nomi.jpg" alt="perceptron" width="600">
 
 #### Text-to-speech変換
 
