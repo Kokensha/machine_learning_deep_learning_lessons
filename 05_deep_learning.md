@@ -92,6 +92,20 @@ http://research.baidu.com/Blog/index-view?id=113
 
 #### 音声認識
 
+* Apple の siri
+
+* Google の Google Assistant
+
+* Amazon　の Alexa
+
+* Microsoft の Cortana
+
+* Teslaの音声コマンド
+
+* NIOの音声コマンド
+
+
+
 #### Text-to-speech変換
 
 #### 機械翻訳
