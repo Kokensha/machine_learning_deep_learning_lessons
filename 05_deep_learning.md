@@ -106,7 +106,11 @@ http://research.baidu.com/Blog/index-view?id=113
 
 <img src="assets/05-nomi.jpg" alt="perceptron" width="600">
 
-#### Text-to-speech変換
+#### 音声合成Text-to-speech変換
+
+音声認識とセットになっている場合が多い
+
+* WaveNet:https://deepmind.com/blog/wavenet-generative-model-raw-audio/ 
 
 #### 機械翻訳
 
