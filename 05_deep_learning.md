@@ -88,7 +88,7 @@ NPL(Natrual Language Processing):自然言語処理
 
 * Google翻訳：https://translate.google.com
 
-2016年9月GNMT/Google Neural Machine Translationを導入した
+2016年9月GNMT/Google Neural Machine Translationを導入した（https://ai.googleblog.com/2016/09/a-neural-network-for-machine.html）
 
 GNMTについての論文：https://arxiv.org/abs/1609.08144
 
