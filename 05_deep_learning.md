@@ -94,6 +94,14 @@ GNMTについての論文：https://arxiv.org/abs/1609.08144
 
 論文のPDF：https://arxiv.org/pdf/1609.08144.pdf
 
+#### 文章生成
+
+* GPT-2:https://github.com/openai/gpt-2
+
+#### 対話ボット
+
+* FAQ対応、予約対応、コールセンター業務
+
 ### 生成　GAN（Ganerative Adversarial Network）
 
 #### 画像、動画生成
