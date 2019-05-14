@@ -80,6 +80,16 @@
 
 NPL(Natrual Language Processing):自然言語処理
 
+* Googleの BERT
+
+https://github.com/google-research/bert
+
+* Baiduの　ERNIE
+
+https://github.com/PaddlePaddle/LARK/tree/develop/ERNIE 
+
+http://research.baidu.com/Blog/index-view?id=113
+
 #### 音声認識
 
 #### Text-to-speech変換
