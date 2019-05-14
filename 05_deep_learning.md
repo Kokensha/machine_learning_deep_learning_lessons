@@ -46,23 +46,47 @@
 
 ## 深層学習の応用
 
-* 顔認識
+### 数値データ
 
-* 画像分類
+#### 広告レコメンデーション
 
-* 音声認識
+### 画像・映像データ
 
-* Text-to-speech変換
+#### 手書き文字認識変換
 
-* 手書き文字認識変換
+#### 顔認識
 
-* 機械翻訳
+#### 画像分類（りんごかミカンか、犬か猫か）
 
-* 医療診断
+#### 医療診断（画像で、レントゲン画像で腫瘍や病変を見つける）
 
-* 自動運転（歩行者、標識、車道認識）
+* 早期胃がん領域の高精度検出：https://www.ncc.go.jp/jp/information/pr_release/2018/0721/index.html
 
-* 広告レコメンデーション
+#### 物体認識（Object detection）
 
-* 画像、動画生成
+* YOLO
+
+#### 自動運転（歩行者、標識、車道認識）
+
+* Tesla
+
+* Waymo
+
+#### 人のポーズの検出
+
+* https://github.com/tensorflow/tfjs-models/tree/master/posenet
+
+### 言語音声データ
+
+#### 音声認識
+
+#### Text-to-speech変換
+
+#### 機械翻訳
+
+### 生成　GAN（Ganerative Adversarial Network）
+
+#### 画像、動画生成
+
+* https://crypko.ai/#/
 
