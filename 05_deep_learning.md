@@ -78,15 +78,31 @@
 
 ### 言語音声データ
 
+NPL(Natrual Language Processing):自然言語処理
+
 #### 音声認識
 
 #### Text-to-speech変換
 
 #### 機械翻訳
 
+* Google翻訳：https://translate.google.com
+
+2016年9月GNMT/Google Neural Machine Translationを導入した
+
+GNMTについての論文：https://arxiv.org/abs/1609.08144
+
+論文のPDF：https://arxiv.org/pdf/1609.08144.pdf
+
 ### 生成　GAN（Ganerative Adversarial Network）
 
 #### 画像、動画生成
 
 * https://crypko.ai/#/
+
+* 人の顔の合成：https://thispersondoesnotexist.com/
+
+* deep fake:https://www.youtube.com/watch?v=cQ54GDm1eL0
+
+
 
