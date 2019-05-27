@@ -22,7 +22,13 @@
 
 * 畳み込み層
 
+** 特徴マップfeature map
+
+https://distill.pub/2017/feature-visualization/
+
 * プーリング層
+
+プーリングは圧縮
 
 * 出力層
 
