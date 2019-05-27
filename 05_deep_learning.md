@@ -22,7 +22,7 @@
 
 * 畳み込み層
 
-** 特徴マップfeature map
+特徴マップfeature map
 
 https://distill.pub/2017/feature-visualization/
 
