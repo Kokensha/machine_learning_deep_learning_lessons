@@ -68,6 +68,10 @@ https://distill.pub/2017/feature-visualization/
 
 * 早期胃がん領域の高精度検出：https://www.ncc.go.jp/jp/information/pr_release/2018/0721/index.html
 
+* 乳がんの検出：http://news.mit.edu/2019/using-ai-predict-breast-cancer-and-personalize-care-0507
+
+* 肺がんの検出：https://www.nytimes.com/2019/05/20/health/cancer-artificial-intelligence-ct-scans.html
+
 #### 物体認識（Object detection）
 
 * YOLO
