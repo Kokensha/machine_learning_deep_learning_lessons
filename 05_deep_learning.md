@@ -4,7 +4,7 @@
 
 ### CNN(Convolutional Nueral Network)畳み込みニューラルネットワーク
 
-<img scr="https://cdn-images-1.medium.com/max/2400/1*n16lj3lSkz2miMc_5cvkrA.jpeg"　width="600">
+<img src="https://cdn-images-1.medium.com/max/2400/1*n16lj3lSkz2miMc_5cvkrA.jpeg"　width="600">
 画像引用先
 https://towardsdatascience.com/neural-network-architectures-156e5bad51ba
 
