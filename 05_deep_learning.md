@@ -157,5 +157,5 @@ GAN（Ganerative Adversarial Network）
 
 * deep fake:https://www.youtube.com/watch?v=cQ54GDm1eL0
 
-
+* deep dream(jupyter notebook) : https://colab.research.google.com/drive/1DWcrN9WXni58MbddvlShX0wF_oeo8W_0
 
