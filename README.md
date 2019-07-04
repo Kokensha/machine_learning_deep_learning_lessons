@@ -24,3 +24,14 @@ MITライセンスですが、商用の場合は事前にご連絡いただき�
 # [機械学習と深層学習勉強のリソース](https://gist.github.com/kawashimaken/7b7daf57a503bf73d94d0f7fe6bced9b)
 
 Made with love by [https://kokensha.xyz](https://kokensha.xyz)
+
+
+# 私の著書
+
+「今すぐ試したい！機械学習・深層学習（ディープラーニング）画像認識プログラミングレシピ」のソースコードを配布するレポジトリです。
+
+アマゾンのリンクはこちらです：https://www.amazon.co.jp/dp/4798056839
+
+<img src="book-ml.jpg" alt="book-ml" width="300">
+
+<img src="book-ml_01.jpg" alt="book-ml" width="800">
