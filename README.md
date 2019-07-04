@@ -32,6 +32,6 @@ Made with love by [https://kokensha.xyz](https://kokensha.xyz)
 
 アマゾンのリンクはこちらです：https://www.amazon.co.jp/dp/4798056839
 
-<img src="book-ml.jpg" alt="book-ml" width="300">
+<img src="assets/book-ml.jpg" alt="book-ml" width="300">
 
-<img src="book-ml_01.jpg" alt="book-ml" width="800">
+<img src="assets/book-ml_01.jpg" alt="book-ml" width="800">
