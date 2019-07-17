@@ -38,4 +38,4 @@ Made with love by [https://kokensha.xyz](https://kokensha.xyz)
 
 # 書籍のGitHub Repo
 
-[https://github.com/Kokensha/book-ml]
+https://github.com/Kokensha/book-ml
