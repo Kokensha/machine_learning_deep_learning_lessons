@@ -35,3 +35,7 @@ Made with love by [https://kokensha.xyz](https://kokensha.xyz)
 <img src="assets/book-ml.jpg" alt="book-ml" width="300">
 
 <img src="assets/book-ml_01.jpg" alt="book-ml" width="800">
+
+# 書籍のGitHub Repo
+
+[https://github.com/Kokensha/book-ml]
