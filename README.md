@@ -23,12 +23,10 @@ MITライセンスですが、商用の場合は事前にご連絡いただき�
 
 # [機械学習と深層学習勉強のリソース](https://gist.github.com/kawashimaken/7b7daf57a503bf73d94d0f7fe6bced9b)
 
-# [ハンズオン01]
+# ハンズオン
 
-## ハンズオン
-
-### ハンズオンお読みください。(handson/common_rules.md)
-### [ハンズオン01]handson/handson01.md)
+## [ハンズオンお読みください。](handson/common_rules.md)
+## [ハンズオン01](handson/handson01.md)
 
 Made with love by [https://kokensha.xyz](https://kokensha.xyz)
 
