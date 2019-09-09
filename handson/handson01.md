@@ -5,8 +5,11 @@
 * Google Colaoratoryの有効化（有効化していない人のみ） (2分)
 * Google Colaoratory Notebookの作成 (2分)
 * Pythonのバージョンの設定、確認、HelloWorld (2分)
+```Python
+print "Hello world!"
+```
 * Google Colaoratory Notebookへのファイルアップロード (2分)
-```python
+```Python
 from google.colab import files
 uploaded = files.upload()
 ```
