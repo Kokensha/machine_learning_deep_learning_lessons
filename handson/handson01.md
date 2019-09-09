@@ -6,10 +6,10 @@
 * Google Colaoratory Notebookの作成 (2分)
 * Pythonのバージョンの設定、確認、HelloWorld (2分)
 * Google Colaoratory Notebookへのファイルアップロード (2分)
-'''python
+```python
 from google.colab import files
 uploaded = files.upload()
-'''
+```
 * Google Colaoratory Notebookでのパッケージのインストール (2分)
 
 ## 「あやめの分類」にチャレンジしよう (40分)
