@@ -26,6 +26,7 @@ Pythonプログラムの解説もします。（強制ではありませんが�
 
 * 参考: https://github.com/Kokensha/book-ml/blob/master/Colaboratory/04_03(scikit_learn_iris).ipynb
 * 機械学習向けフレームワークscikit-learnの紹介 (5分)
+  - scikit-learn URL https://scikit-learn.org/stable/
 * 機械学習のはじめの第一歩「あやめの分類」の概要 (2分)
   setosa, versicolor, virginica
 * アヤメデータの説明(データに慣れる) (10分)
