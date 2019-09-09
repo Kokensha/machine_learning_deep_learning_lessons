@@ -29,6 +29,7 @@ Pythonプログラムの解説もします。（強制ではありませんが�
   - scikit-learn URL https://scikit-learn.org/stable/
 * 機械学習のはじめの第一歩「あやめの分類」の概要 (2分)
   setosa, versicolor, virginica
+  - アヤメの花　https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A4%E3%83%A1
 * アヤメデータの説明(データに慣れる) (10分)
 * 分類と回帰 (2分)
   - 分類の例
