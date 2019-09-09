@@ -10,7 +10,7 @@
 
 ## 「あやめの分類」にチャレンジしよう (40分)
 
-Pythonプログラムの解説もします。
+Pythonプログラムの解説もします。（強制ではありませんが、こちらの本をお持ちですとスムーズかもしれません。https://github.com/Kokensha/book-ml）
 
 * 参考: https://github.com/Kokensha/book-ml/blob/master/Colaboratory/04_03(scikit_learn_iris).ipynb
 * 機械学習向けフレームワークscikit-learnの紹介 (5分)
