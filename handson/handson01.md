@@ -23,6 +23,11 @@ uploaded = files.upload()
   ```Python
   !pip install -U tensorflow
   !pip install -U scikit-learn
+  !pip install -U sklearn
+  !pip install -U scipy
+  !pip install -U numpy
+  !pip install -U matplotlib
+  !pip install -U pandas
   ```
  
 # 書籍のJupyter NotebookファイルをGoogle Colaboratoryにインポートする
