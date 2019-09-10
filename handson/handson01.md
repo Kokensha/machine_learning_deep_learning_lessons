@@ -4,24 +4,26 @@
 
 # Colaboratoryの使用準備と使い方の説明 (10分)
 
-* Google Colaoratoryの有効化（有効化していない人のみ） (2分)
-* Google Colaoratory Notebookの作成 (2分)
+* Google Colaboratoryの有効化（有効化していない人のみ） (2分)
+* Google Colaboratory Notebookの作成 (2分)
 * Pythonのバージョンの設定、確認、HelloWorld (2分)
 ```Python
 print "Hello world!"
 ```
-* Google Colaoratory Notebookへのファイルアップロード (2分)
+* Google Colaboratory Notebookへのファイルアップロード (2分)
 ```Python
 from google.colab import files
 uploaded = files.upload()
 ```
-* Google Colaoratory Notebookでのパッケージのインストール (2分)
+* Google Colaboratory Notebookでのパッケージのインストール (2分)
 
   - 例
   ```Python
   !pip install -U tensorflow
   !pip install -U scikit-learn
   ```
+ 
+# 書籍のJupyter NotebookファイルをGoogle Colaboratoryにインポートする
 
 # 「あやめの分類」にチャレンジしよう (40分)
 
