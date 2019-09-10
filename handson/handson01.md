@@ -51,6 +51,7 @@ Pythonプログラムの解説もします。
   
   - アヤメの花　https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A4%E3%83%A1
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Iris_sanguinea_01.JPG/1280px-Iris_sanguinea_01.JPG" width=200 />
+  - 目的：アヤメの花びらや萼片のサイズの関連性を見つけ出す
 
 ## アヤメデータの説明(データに慣れる) (10分) 
 データに慣れることがとても重要！
@@ -93,6 +94,9 @@ iris = datasets.load_iris()
   - 回帰の例
 
 * サポートベクターマシンの紹介と理論の解説 (2分)
+
+1,2列のデータを使う
+
   - SVMは重要は分類と回帰のアルゴリズムである
   - 超平面を求める手法である
   - 回帰係数と誤差（グラフで、クラスの間の境界線）
@@ -100,6 +104,9 @@ iris = datasets.load_iris()
 * 超平面（Hyper-plane） (2分)
 
 * 交差検証 (5分)
+
+3,4列のデータを使う
+
   - 交差検証とは
     - 学習データ（train_data）と検証データ(test_data)を分ける
     - 検証データは、学習に使わない
