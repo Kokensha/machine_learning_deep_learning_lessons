@@ -17,7 +17,7 @@ uploaded = files.upload()
 
   - 例
   ```Python
-  !pip install tensorflow
+  !pip install -U tensorflow
   !pip install -U scikit-learn
   ```
 
