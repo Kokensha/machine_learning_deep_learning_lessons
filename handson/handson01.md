@@ -1,7 +1,6 @@
 # ハンズオン
 * 参考書籍
 
-
 # Colaboratoryの使用準備と使い方の説明 (10分)
 
 * Google Colaboratoryの有効化（有効化していない人のみ） (2分)
