@@ -17,10 +17,11 @@
 * 2019年6月　[今すぐ試したい! 機械学習・深層学習(ディープラーニング) 画像認識プログラミングレシピ](https://www.amazon.co.jp/dp/4798056839)　発売
 
 
-* 会社HP　： https://www.it-kokensha.com/
+* 会社HP　: https://www.it-kokensha.com/
 * 技術ブログ　： https://kokensha.xyz/
-* note　：　https://note.mu/kawashimaken
-* Facebook　： https://www.facebook.com/kawashimaken2015
-* Twitter　： https://twitter.com/kokensha_tech
-* Instagram　： https://www.instagram.com/kawashimaken/
-* 自己紹介記事：https://kokensha.xyz/blog/who-is-ken-kawashima/
+* note　:　https://note.mu/kawashimaken
+* GitHub : https://github.com/kawashimaken
+* Facebook　: https://www.facebook.com/kawashimaken2015
+* Twitter　: https://twitter.com/kokensha_tech
+* Instagram　: https://www.instagram.com/kawashimaken/
+* 自己紹介記事 : https://kokensha.xyz/blog/who-is-ken-kawashima/
