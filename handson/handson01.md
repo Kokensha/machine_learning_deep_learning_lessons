@@ -18,6 +18,7 @@ uploaded = files.upload()
   - 例
   ```Python
   !pip install tensorflow
+  !pip install -U scikit-learn
   ```
 
 ## 「あやめの分類」にチャレンジしよう (40分)
