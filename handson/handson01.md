@@ -42,7 +42,10 @@ Pythonプログラムの解説もします。（強制ではありませんが�
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Iris_sanguinea_01.JPG/1280px-Iris_sanguinea_01.JPG" width=200 />
 
 ## アヤメデータの説明(データに慣れる) (10分) 
-Andersonが採取、整理し、Fisherが1936年論文で使用
+データに慣れることがとても重要！
+データの構造、意味が分からないと、良い結果に繋がる処理ができない
+
+* Andersonが採取、整理し、Fisherが1936年論文で使用
 
 * データセットの中身
   - Sepal Length（がく片の長さ）
