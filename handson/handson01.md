@@ -26,7 +26,7 @@ uploaded = files.upload()
 # 書籍のJupyter NotebookファイルをGoogle Colaboratoryにインポートする
 
 * 04-03(scikit-learn iris).ipynb  : https://github.com/Kokensha/book-ml/blob/master/Colaboratory/04_03(scikit_learn_iris).ipynb
-<img src="assets/import_to_colab.jpg" alt="import to colab" width="600">
+  - <img src="assets/import_to_colab.jpg" alt="import to colab" width="600">
 
 # 「あやめの分類」にチャレンジしよう (40分)
 
