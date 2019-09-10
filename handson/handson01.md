@@ -79,7 +79,10 @@ iris = datasets.load_iris()
 * 超平面（Hyper-plane） (2分)
 
 * 交差検証 (5分)
-　　- Mlxtend (machine learning extensions)  http://rasbt.github.io/mlxtend/
+  - 交差検証とは
+    - 学習データ（train_data）と検証データ(test_data)を分ける
+    - 検証データは、学習に使わない
+  - Mlxtend (machine learning extensions)  http://rasbt.github.io/mlxtend/
   
 * 分類（predict）
 
