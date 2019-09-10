@@ -28,6 +28,11 @@ Pythonプログラムの解説もします。（強制ではありませんが�
 * 参考: https://github.com/Kokensha/book-ml/blob/master/Colaboratory/04_03(scikit_learn_iris).ipynb
 * 機械学習向けフレームワークscikit-learnの紹介 (5分)
   - scikit-learn URL https://scikit-learn.org/stable/
+  - scikit-learn　バージョンの確認
+  ```Python
+  import sklearn
+  print(sklearn.__version__)
+  ```
 * 機械学習のはじめの第一歩「あやめの分類」の概要 (2分)
   setosa, versicolor, virginica
   - アヤメの花　https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A4%E3%83%A1
