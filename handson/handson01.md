@@ -39,7 +39,7 @@ Pythonプログラムの解説もします。（強制ではありませんが�
 ## 機械学習のはじめの第一歩「あやめの分類」の概要 (2分)
   
   - アヤメの花　https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A4%E3%83%A1
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Iris_sanguinea_01.JPG/1280px-Iris_sanguinea_01.JPG" width=300 />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Iris_sanguinea_01.JPG/1280px-Iris_sanguinea_01.JPG" width=200 />
 
 ## アヤメデータの説明(データに慣れる) (10分) 
 Andersonが採取、整理し、Fisherが1936年論文で使用
@@ -69,11 +69,11 @@ iris = datasets.load_iris()
 *　分類と回帰 (2分)
   - 分類の例
   - 回帰の例
-  - 回帰係数と誤差
 
 * サポートベクターマシンの紹介と理論の解説 (2分)
   - SVMは重要は分類と回帰のアルゴリズムである
   - 超平面を求める手法である
+  - 回帰係数と誤差（グラフで、クラスの間の境界線）
 
 * 超平面（Hyper-plane） (2分)
 
