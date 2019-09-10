@@ -32,6 +32,10 @@ Pythonプログラムの解説もします。（強制ではありませんが�
   - アヤメの花　https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A4%E3%83%A1
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Iris_sanguinea_01.JPG/1280px-Iris_sanguinea_01.JPG" width=300 />
 * アヤメデータの説明(データに慣れる) (10分)
+  - Sepal Length（がく片の長さ）
+  - Sepal Width（がく片の幅）
+  - Petal Length（花びらの長さ）
+  - Petal Width（花びらの幅）
 * 分類と回帰 (2分)
   - 分類の例
   - 回帰の例
