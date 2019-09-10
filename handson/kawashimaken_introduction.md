@@ -18,7 +18,7 @@
 
 
 * 会社HP　: https://www.it-kokensha.com/
-* 技術ブログ　： https://kokensha.xyz/
+* 技術ブログ　: https://kokensha.xyz/
 * note　:　https://note.mu/kawashimaken
 * GitHub : https://github.com/kawashimaken
 * Facebook　: https://www.facebook.com/kawashimaken2015
