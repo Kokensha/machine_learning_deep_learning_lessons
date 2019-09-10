@@ -79,7 +79,7 @@ iris = datasets.load_iris()
 * 超平面（Hyper-plane） (2分)
 
 * 交差検証 (5分)
-  - http://rasbt.github.io/mlxtend/
+  -　Mlxtend (machine learning extensions)  http://rasbt.github.io/mlxtend/
   
 * 分類（predict）
 
