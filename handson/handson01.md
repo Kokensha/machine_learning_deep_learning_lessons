@@ -1,6 +1,8 @@
-# ハンズオン
-* 参考書籍
+# [川島の自己紹介](kawashimaken_introduction.md)
 
+# ハンズオン
+* 参考書籍 「今すぐ試したい！機械学習・深層学習（ディープラーニング）画像認識プログラミングレシピ」強制ではありませんが、こちらの本をお持ちですとスムーズかもしれません。
+* https://github.com/Kokensha/book-ml
 
 # Colaboratoryの使用準備と使い方の説明 (10分)
 
@@ -30,8 +32,7 @@ uploaded = files.upload()
 
 # 「あやめの分類」にチャレンジしよう (40分)
 
-Pythonプログラムの解説もします。（強制ではありませんが、こちらの本をお持ちですとスムーズかもしれません。https://github.com/Kokensha/book-ml）
-
+Pythonプログラムの解説もします。
 * 参考: https://github.com/Kokensha/book-ml/blob/master/Colaboratory/04_03(scikit_learn_iris).ipynb
 
 ## 機械学習向けフレームワークscikit-learnの紹介 (5分)
