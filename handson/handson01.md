@@ -42,6 +42,10 @@ Pythonプログラムの解説もします。（強制ではありませんが�
   - Sepal Width（がく片の幅）
   - Petal Length（花びらの長さ）
   - Petal Width（花びらの幅）
+  - アヤメデータの用意
+  ```Python
+  iris = datasets.load_iris()
+  ```
 * 分類と回帰 (2分)
   - 分類の例
   - 回帰の例
