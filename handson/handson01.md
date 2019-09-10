@@ -30,7 +30,7 @@ uploaded = files.upload()
 
 # 「あやめの分類」にチャレンジしよう (40分)
 
-Pythonプログラムの解説もします。（強制ではありませんが、こちらの本をお持ちですとスムーズかもしれません。https://github.com/Kokensha/book-ml）
+Pythonプログラムの解説もします。（強制ではありませんが、こちらの本をお持ちですとスムーズかもしれません。https://github.com/Kokensha/book-ml
 
 * 参考: https://github.com/Kokensha/book-ml/blob/master/Colaboratory/04_03(scikit_learn_iris).ipynb
 
