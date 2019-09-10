@@ -44,6 +44,8 @@ Pythonプログラムの解説もします。（強制ではありませんが�
 * 交差検証 (5分)
 * 学習と検証 (5分)
 * 実際に「あやめの分類」をやってみよう  (2分)
+* 参考リンク
+  - https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html
 
 
 ## 今後(5分)
