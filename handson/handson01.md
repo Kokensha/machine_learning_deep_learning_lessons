@@ -31,7 +31,7 @@ Pythonプログラムの解説もします。（強制ではありませんが�
   setosa, versicolor, virginica
   - アヤメの花　https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A4%E3%83%A1
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Iris_sanguinea_01.JPG/1280px-Iris_sanguinea_01.JPG" width=300 />
-* アヤメデータの説明(データに慣れる) (10分)
+* アヤメデータの説明(データに慣れる) (10分) Andersonが採取、整理し、Fisherが1936年論文で使用
   - Sepal Length（がく片の長さ）
   - Sepal Width（がく片の幅）
   - Petal Length（花びらの長さ）
@@ -46,6 +46,7 @@ Pythonプログラムの解説もします。（強制ではありませんが�
 * 実際に「あやめの分類」をやってみよう  (2分)
 * 参考リンク
   - https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html
+  - アヤメデータセットについて（Fisher's アヤメデータセット、Anderson's アヤメデータセット）：https://en.wikipedia.org/wiki/Iris_flower_data_set
 
 
 ## 今後(5分)
