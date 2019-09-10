@@ -60,10 +60,10 @@ Pythonプログラムの解説もします。
 
 * データセットの中身
   - iris.feature_names（いわゆる教師ラベル）
-  　　- Sepal Length（がく片の長さ）
-  　　- Sepal Width（がく片の幅）
-  　　- Petal Length（花びらの長さ）
-  　　- Petal Width（花びらの幅）
+     - Sepal Length（がく片の長さ）
+     - Sepal Width（がく片の幅）
+     - Petal Length（花びらの長さ）
+     - Petal Width（花びらの幅）
   - iris.target種類
      - setosa
      - versicolor
