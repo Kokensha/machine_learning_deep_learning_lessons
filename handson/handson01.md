@@ -30,7 +30,7 @@ Pythonプログラムの解説もします。（強制ではありませんが�
 * 機械学習のはじめの第一歩「あやめの分類」の概要 (2分)
   setosa, versicolor, virginica
   - アヤメの花　https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A4%E3%83%A1
-  <img src="https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Iris_sanguinea_01.JPG" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Iris_sanguinea_01.JPG/1280px-Iris_sanguinea_01.JPG" />
 * アヤメデータの説明(データに慣れる) (10分)
 * 分類と回帰 (2分)
   - 分類の例
