@@ -2,9 +2,9 @@
 
 machine learning and deep learning lessons. 
 
-初心のための一番分かりやすい、効果的な日本語「機械学習・深層学習」教材作りを目指しています。
+初心者のための一番分かりやすい、効果的な日本語「機械学習・深層学習」教材作りを目指しています。
 
-MITライセンスですが、商用の場合は事前にご連絡いただきますようお願いします。
+MITライセンスですが、商用の場合は事前にご連絡いただきますようお願い致ます。
 
 # 目次
 
@@ -25,8 +25,8 @@ MITライセンスですが、商用の場合は事前にご連絡いただき�
 
 # ハンズオン
 
-## [ハンズオンお読みください。](handson/common_rules.md)
-## [ハンズオン01](handson/handson01.md)
+  - [ハンズオンお読みください。](handson/common_rules.md)
+  - [ハンズオン01](handson/handson01.md)
 
 Made with love by [https://kokensha.xyz](https://kokensha.xyz)
 
