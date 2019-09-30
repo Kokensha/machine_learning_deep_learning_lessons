@@ -2,7 +2,7 @@
 
 # 第1回
 
-* 環境設定
+* 環境設定（Google colaboratory）
 
 * 機械学習：sickit-learn アヤメの分類
 
