@@ -57,3 +57,7 @@
 # 第13回
 
 * GAN 手書き数字の生成
+
+# 第14回
+
+* 人工知能 Cloud APIの利用（Azure, Google, AWS）
