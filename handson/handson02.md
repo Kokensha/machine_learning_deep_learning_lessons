@@ -15,6 +15,8 @@ https://github.com/Kokensha/book-ml
 * データを表示する
 
 * データを画像として描画する
+ 
+  - <img src="assets/digit_4.png" alt="import to colab" width="300">
 
 * 手書き数字データセットを三次元空間で見る
 
