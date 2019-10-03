@@ -32,4 +32,9 @@ https://github.com/Kokensha/book-ml
 
 * 検証
 
+# 質疑応用（0-30分）
+
+# アンケート回収
+
+# スタッフ片付け、解散
 
