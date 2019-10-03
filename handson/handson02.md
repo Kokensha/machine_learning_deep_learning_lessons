@@ -15,6 +15,9 @@ https://github.com/Kokensha/book-ml
 * データを表示する
 
 * データを画像として描画する
+ 
+  - <img src="assets/digit_4.png" alt="digit 4" width="300">
+  - <img src="assets/color_digit_0.png" alt="color digit 0" width="300">
 
 * 手書き数字データセットを三次元空間で見る
 
