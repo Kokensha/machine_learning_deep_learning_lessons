@@ -84,6 +84,7 @@ iris = datasets.load_iris()
   - 1列目、2列目のデータを使う場合
   - 3列目、4列目のデータを使う場合
   - 3Dグラフ（次元削減）
+  - <img src="assets/ayame.gif" width=800 />
 
 ## １回目の学習プロセス
 
