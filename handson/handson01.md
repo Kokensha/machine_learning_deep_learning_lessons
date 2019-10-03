@@ -135,3 +135,5 @@ iris = datasets.load_iris()
 # アンケート回収
 
 # スタッフ片付け、解散
+
+# [第2回目手書き数字認識](handson02.md)
