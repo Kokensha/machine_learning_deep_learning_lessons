@@ -18,7 +18,7 @@ https://github.com/Kokensha/book-ml
  
   - <img src="assets/digit_4.png" alt="digit 4" width="300">
   - <img src="assets/color_digit_0.png" alt="color digit 0" width="300">
-  - <img src="assets/digits_grid.png" alt="digits grid" width="600">
+  - <img src="assets/digits_grid.png" alt="digits grid" width="1024">
 
 * 手書き数字データセットを三次元空間で見る
  
