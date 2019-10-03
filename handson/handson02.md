@@ -22,7 +22,7 @@ https://github.com/Kokensha/book-ml
 
 * 手書き数字データセットを三次元空間で見る
  
-  - <img src="assets/10_digits_3d.png" alt="10 digits in 3d" width="600">
+  - <img src="assets/10_digits_3d.gif" alt="10 digits in 3d" width="600">
 
 * 分類器をインポートする
 
