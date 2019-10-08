@@ -14,6 +14,8 @@
 
 * 上記書籍の225ページ〜241ページまでご参考するか、または下記の記事を合わせてお読みください：https://kokensha.xyz/ml/machine-learning-tutorial-scikit-learn-digits/
 
+* Jupyter Notebookはこちらです：https://github.com/Kokensha/book-ml/blob/master/Colaboratory/04_04(scikit_learn_digits).ipynb
+
 
 # 手書き数字認識
 
