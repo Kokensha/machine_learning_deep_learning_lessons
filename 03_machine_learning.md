@@ -59,6 +59,7 @@
 
 * PCA
 
+  - <img src="assets/03-pca.jpg" alt="データセットの分け方" width="600">
 
 
 ### 強化学習
