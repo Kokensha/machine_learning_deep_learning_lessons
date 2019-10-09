@@ -27,7 +27,7 @@
 
 <img src="assets/02-03-00.png" alt="必要な数学知識" width="400">
 
-* 線形代数
+* [線形代数](mathematics/01_linear_algebra.md)
 
 * 確率・統計
 
