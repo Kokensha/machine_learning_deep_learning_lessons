@@ -9,3 +9,5 @@ GPUチップには、NVIDIA製がほとんどです。 https://www.nvidia.com/ja
 * [データセンター用GPU Tesla V100](https://www.nvidia.com/en-us/data-center/tesla-v100/)
 
 * [Cloud Tensor Processing Unit（TPU）](https://cloud.google.com/tpu/docs/tpus?hl=ja)
+
+<img src="https://commons.wikimedia.org/wiki/File:Tensor_Processing_Unit_3.0.jpg#/media/File:Tensor_Processing_Unit_3.0.jpg" width=800 />
