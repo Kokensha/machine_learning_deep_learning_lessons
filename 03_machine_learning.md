@@ -20,7 +20,7 @@
 * SVM(support vector machine) 
 
   - 超平面（hyper plane）
-  <img src="assets/03-hyper_plane.png" alt="hyper plane" width="600">
+  <img src="assets/03-hyper_plane.jpg" alt="hyper plane" width="600">
 
 * k-平均法（k-means）
 
