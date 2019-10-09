@@ -10,4 +10,4 @@ GPUチップには、NVIDIA製がほとんどです。 https://www.nvidia.com/ja
 
 * [Cloud Tensor Processing Unit（TPU）](https://cloud.google.com/tpu/docs/tpus?hl=ja)
 
-<img src="https://commons.wikimedia.org/wiki/File:Tensor_Processing_Unit_3.0.jpg#/media/File:Tensor_Processing_Unit_3.0.jpg" width="800" />
+<img src="https://commons.wikimedia.org/wiki/File:Tensor_Processing_Unit_3.0.jpg" alt="TPU" width="800" />
