@@ -29,9 +29,9 @@
 
 * [線形代数](mathematics/01_linear_algebra.md)
 
-* 確率・統計
+* [確率・統計](mathematics/02_statistics.md)
 
-* 解析（微積分）
+* [解析（微積分）](mathematics/03_mathematical_analysis.md)
 
 ## 02-04 Pythonの基礎
 
