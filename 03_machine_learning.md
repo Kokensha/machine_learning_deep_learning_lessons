@@ -19,6 +19,8 @@
 
 * SVM(support vector machine) 
 
+  - 超平面（hyper plane）
+
 * k-平均法（k-means）
 
 もっともよく知られているクラスタリングアルゴリズムの１つです。
