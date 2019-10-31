@@ -14,7 +14,7 @@
 
 ## ニューラルネットワーク及びニューラルネットワークの学習についての詳説
 
-* [参考](./../neuralnetwork.md)
+* [参考](./../04_artificial_neural_network.md)
 
 # 質疑応用
 
