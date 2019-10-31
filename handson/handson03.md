@@ -14,7 +14,9 @@
 
 ## ニューラルネットワーク及びニューラルネットワークの学習についての詳説
 
-* [参考](./../04_artificial_neural_network.md)
+* [参考　概念説明](./../04_artificial_neural_network.md)
+
+* [参考2 ハンズオン](https://github.com/Kokensha/book-ml/blob/master/Colaboratory/04_05(Chainer_MNIST).ipynb)
 
 # 質疑応用
 
