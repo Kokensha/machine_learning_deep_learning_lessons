@@ -49,23 +49,23 @@
 
 # 第6回
 
-* 深層学習 犬猫の認識　Chainer
+* CNN 犬猫の認識　Chainer
 
 # 第7回
 
-* 深層学習 手書き数字認識　MINIST + PyTorch
+* ニューラルネットワーク  手書き数字認識　MINIST + PyTorch
 
 # 第8回
 
-* 深層学習 画像学習　CIFAR-10 + PyTorch
+* CNN 画像学習　CIFAR-10 + PyTorch
 
 # 第9回
 
-* 深層学習 手書き数字認識　MNIST + TensorFlow + Keras
+* CNN 手書き数字認識　MNIST + TensorFlow + Keras
 
 # 第10回
 
-* 深層学習 Fashion認識　FashionMNIST + TensorFlow + Keras
+* CNN Fashion認識　FashionMNIST + TensorFlow + Keras
 
 # 第11回
 
