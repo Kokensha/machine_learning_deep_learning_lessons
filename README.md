@@ -27,8 +27,8 @@ MITライセンスですが、商用の場合は事前にご連絡いただき�
 
   - [ハンズオン内容の全体構成](handson/handson_plan.md)
   - [ハンズオンお読みください。](handson/common_rules.md)
-  - [ハンズオン01](handson/handson01.md)
-  - [ハンズオン02](handson/handson02.md)
+  - [ハンズオン01：　機械学習scikit-learnアヤメ分類](handson/handson01.md)
+  - [ハンズオン02：　機械学習scikit-learn手書き数字認識](handson/handson02.md)
   - [ハンズオン03：　ニューラルネットワーク及びニューラルネットワークの学習](handson/handson03.md)
   - [ハンズオン04：　ニューラルネットワーク 手書き数字認識　MINIST + Chainer](handson/handson04.md)
 
