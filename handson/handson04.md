@@ -6,13 +6,15 @@
 
 * https://github.com/Kokensha/book-ml
 
-# 第3回　ハンズオン
+# 第4回　ハンズオン
 
 前回第3回は[こちら](handson03.md)です。
 
 * 第1回のGoogle Colabの環境を用意して置いてください。会場もWiFiの環境が用意されていますが、可能であれば、ご自身のモバイルWiFiルータもお持ちください！
 
+* Chainerの簡単な紹介
 
+* MNIST手書き数字データの説明
 
 
 # 質疑応用
