@@ -29,8 +29,8 @@ MITライセンスですが、商用の場合は事前にご連絡いただき�
   - [ハンズオンお読みください。](handson/common_rules.md)
   - [ハンズオン01](handson/handson01.md)
   - [ハンズオン02](handson/handson02.md)
-  - [ハンズオン03](handson/handson03.md)
-  - [ハンズオン04:ニューラルネットワーク 手書き数字認識　MINIST + Chainer](handson/handson04.md)
+  - [ハンズオン03：　ニューラルネットワーク及びニューラルネットワークの学習](handson/handson03.md)
+  - [ハンズオン04：　ニューラルネットワーク 手書き数字認識　MINIST + Chainer](handson/handson04.md)
 
 Made with love by [https://kokensha.xyz](https://kokensha.xyz)
 
