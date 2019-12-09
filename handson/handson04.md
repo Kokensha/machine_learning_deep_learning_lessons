@@ -18,7 +18,7 @@
 
 ## ハンズオン
 
-* [参考 ハンズオン](https://github.com/Kokensha/book-ml/blob/master/Colaboratory/04_05(Chainer_MNIST).ipynb)
+* [参考 ハンズオン（参考書籍の第４章第５節）](https://github.com/Kokensha/book-ml/blob/master/Colaboratory/04_05(Chainer_MNIST).ipynb)
 
 * Chainerの簡単な紹介
 
