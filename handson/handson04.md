@@ -35,6 +35,12 @@
 
 * スペースホルダ
 
+## 犬と猫の分類（時間が余れば）
+
+* 参考書籍の第４章第６節
+
+* https://github.com/Kokensha/book-ml/blob/master/Colaboratory/04_06(Chainer_dogs_and_cats).ipynb
+
 ## ウェブアプリの起動方法
 
 * https://github.com/Kokensha/book-ml/tree/master/docker-python3-flask-ml-app
