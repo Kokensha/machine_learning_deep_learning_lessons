@@ -73,6 +73,9 @@
 
 * 犬と猫の写真データを取得する```!wget files.fast.ai/data/dogscats.zip``` 
 
+* 画像データ形式の整備
+
+
 ## Dockerを使ったFlaskウェブアプリの起動方法（30分）
 
 * https://github.com/Kokensha/book-ml/tree/master/docker-python3-flask-ml-app
