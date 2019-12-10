@@ -71,10 +71,17 @@
 
 * https://github.com/Kokensha/book-ml/blob/master/Colaboratory/04_06(Chainer_dogs_and_cats).ipynb
 
-## ウェブアプリの起動方法（30分）
+## Dockerを使ったFlaskウェブアプリの起動方法（30分）
 
 * https://github.com/Kokensha/book-ml/tree/master/docker-python3-flask-ml-app
 
+* 画像データの送信
+
+* サーバサイド画像データの受け取り
+
+* データの処理
+
+* 学習済みモデルを使って推論
 
 # 質疑応用
 
