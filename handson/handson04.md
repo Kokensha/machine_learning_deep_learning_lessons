@@ -20,7 +20,7 @@
 
 * [参考 ハンズオン（参考書籍の第４章第５節）](https://github.com/Kokensha/book-ml/blob/master/Colaboratory/04_05(Chainer_MNIST).ipynb)
 
-## Chainerの簡単な紹介
+## Chainerの簡単な紹介（5分）
 
 * 日本のプリファードネットワークス（Preffered Networks）さんが主導で開発したPythonベースオープンソース深層学習フレームワークである。
 
@@ -31,7 +31,7 @@
 * 2019年12月5日　プリファードネットワークス、以下、PFN）は、研究開発の基盤技術である深層学習フレームワークを、自社開発のChainer™から、PyTorchに順次移行する発表された。https://preferred.jp/ja/news/pr20191205/
 
 
-## MNIST手書き数字データの説明
+## MNIST手書き数字データの説明（5分）
 
 * MNIST(Mixed National Institute of Standards and Technology database)
 
@@ -41,7 +41,7 @@
 
 * 人工知能(AI)の勉強を始める入り口としてMNISTはよく使われるデータセット
 
-## プログラムの解説
+## プログラムの解説（30分）
 
 * Chainerのインストール
 
@@ -61,15 +61,15 @@
 
 * 検証処理ブロック（ソースコードの修正あり）
 
-* 
+* 学習と検証
 
-## 犬と猫の分類（時間が余れば）
+## 犬と猫の分類（20分）
 
 * 参考書籍の第４章第６節
 
 * https://github.com/Kokensha/book-ml/blob/master/Colaboratory/04_06(Chainer_dogs_and_cats).ipynb
 
-## ウェブアプリの起動方法
+## ウェブアプリの起動方法（30分）
 
 * https://github.com/Kokensha/book-ml/tree/master/docker-python3-flask-ml-app
 
