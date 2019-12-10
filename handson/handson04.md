@@ -71,6 +71,8 @@
 
 * https://github.com/Kokensha/book-ml/blob/master/Colaboratory/04_06(Chainer_dogs_and_cats).ipynb
 
+* 犬と猫の写真データを取得する```!wget files.fast.ai/data/dogscats.zip``` 
+
 ## Dockerを使ったFlaskウェブアプリの起動方法（30分）
 
 * https://github.com/Kokensha/book-ml/tree/master/docker-python3-flask-ml-app
