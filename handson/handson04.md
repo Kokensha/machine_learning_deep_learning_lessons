@@ -72,8 +72,33 @@
 * https://github.com/Kokensha/book-ml/blob/master/Colaboratory/04_06(Chainer_dogs_and_cats).ipynb
 
 * 犬と猫の写真データを取得する```!wget files.fast.ai/data/dogscats.zip``` 
+まず、プログラムを実行して、学習済みモデルを取得するまでやります。時間があったら、内容を説明する
 
 * 画像データ形式の整備
+
+* 画像の前処理
+
+* データセットの作成
+
+* 学習データと検証データを分ける
+
+* CNN設定(畳み込みニューラルネットワークの学習については次回詳説する)
+
+* 反復子
+
+* optimizerの設定
+
+* updaterの設定
+
+* extensionsの設定
+
+* 学習及び学習結果の確認
+
+* 検証
+
+* 学習済みモデルの取得（Google Driveに保存する）
+
+* 手書き犬と猫の判別（ウェブアプリ）
 
 
 ## Dockerを使ったFlaskウェブアプリの起動方法（30分）
