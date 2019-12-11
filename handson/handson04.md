@@ -12,13 +12,11 @@
 
 * 第1回のGoogle Colabの環境を用意して置いてください。会場もWiFiの環境が用意されていますが、可能であれば、ご自身のモバイルWiFiルータもお持ちください！
 
-## ニューラルネットワーク及びニューラルネットワークの学習についての詳説(第３回の内容)
+* [参考 ハンズオン（参考書籍の第４章第５節）](https://github.com/Kokensha/book-ml/blob/master/Colaboratory/04_05(Chainer_MNIST).ipynb)
+
+## ニューラルネットワーク及びニューラルネットワークの学習についての詳説(第３回の内容復習：10分)
 
 * [参考 概念説明](./../04_artificial_neural_network.md)
-
-## ハンズオン
-
-* [参考 ハンズオン（参考書籍の第４章第５節）](https://github.com/Kokensha/book-ml/blob/master/Colaboratory/04_05(Chainer_MNIST).ipynb)
 
 ## Chainerの簡単な紹介（5分）
 
