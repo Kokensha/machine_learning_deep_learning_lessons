@@ -33,7 +33,10 @@
 
 ## MNIST手書き数字データの説明（5分）
 
-* MNIST(Mixed National Institute of Standards and Technology database)
+* MNIST(Mixed National Institute of Standards and Technology database) 
+
+* 直接 http://yann.lecun.com/exdb/mnist/
+
 
 * 手書き数字画像60,000枚と、テスト画像10,000枚、合わせて70,000枚の画像のデータセット
 
