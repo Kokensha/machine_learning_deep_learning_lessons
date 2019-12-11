@@ -49,6 +49,8 @@
 
 * CNN 犬猫の認識　Chainer
 
+* [handson05.md](handson05.md)
+
 # 第6回
 
 * ニューラルネットワーク  手書き数字認識　MINIST + PyTorch
