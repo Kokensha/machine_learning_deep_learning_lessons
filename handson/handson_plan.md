@@ -23,25 +23,25 @@
 
 * 機械学習：sickit-learn アヤメの分類
 
-[handson01.md](handson01.md)
+* [handson01.md](handson01.md)
 
 # 第2回
 
 * 機械学習：sickit-learn 手書き数字認識
 
-[handson02.md](handson02.md)
+* [handson02.md](handson02.md)
 
 # 第3回
 
 * ニューラルネットワーク関連概念の詳説
 
-[handson03.md](handson03.md)
+* [handson03.md](handson03.md)
 
 # 第4回
 
 * ニューラルネットワーク 手書き数字認識　MINIST + Chainer
 
-[handson04.md](handson04.md)
+* [handson04.md](handson04.md)
 
 # 第5回 
 
