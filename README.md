@@ -31,7 +31,8 @@ MITライセンスですが、商用の場合は事前にご連絡いただき�
   - [ハンズオン02：　機械学習scikit-learn手書き数字認識](handson/handson02.md)
   - [ハンズオン03：　ニューラルネットワーク及びニューラルネットワークの学習](handson/handson03.md)
   - [ハンズオン04：　ニューラルネットワーク 手書き数字認識　MINIST + Chainer](handson/handson04.md)
-  - ハンズオン05：　CNNの詳説（畳み込みニューラルネットワーク）
+  - [ハンズオン05：　CNNの詳説（畳み込みニューラルネットワークの学習）](handson/handson05.md)
+  - ハンズオン06：　PyTorch+MNIST & PyTorch+ CIFAR-10
 
 Made with love by [https://kokensha.xyz](https://kokensha.xyz)
 
