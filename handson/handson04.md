@@ -35,8 +35,7 @@
 
 * MNIST(Mixed National Institute of Standards and Technology database) 
 
-* 直接 http://yann.lecun.com/exdb/mnist/
-
+* 直接ダウンロードすることも可能 http://yann.lecun.com/exdb/mnist/
 
 * 手書き数字画像60,000枚と、テスト画像10,000枚、合わせて70,000枚の画像のデータセット
 
