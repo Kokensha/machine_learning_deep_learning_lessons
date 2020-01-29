@@ -7,7 +7,7 @@
 
 * https://github.com/Kokensha/book-ml
 
-# 第5回　ハンズオン
+# 第6回　ハンズオン
 
 前回第5回は[こちら](handson05.md)です。
 
