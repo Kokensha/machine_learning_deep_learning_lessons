@@ -35,10 +35,10 @@ MITライセンスですが、商用の場合は事前にご連絡いただき�
   - [ハンズオン06：　PyTorch+MNIST & PyTorch+ CIFAR-10](handson/handson06.md)
   - ハンズオン07：TensorFlowとKeras、CNN 手書き数字認識　MNIST + TensorFlow + Keras、CNN Fashion認識　FashionMNIST + TensorFlow + Keras
   - ハンズオン08：転移学習 花ウェブアプリ　TensorFlow + Kera
-  - ハンズオン09：
-  - ハンズオン10：
-  - ハンズオン11：
-  - ハンズオン12：
+  - ハンズオン09：転移学習 ペットボトルと空き缶の分類　TensorFlow + Keras（1）
+  - ハンズオン10：転移学習 ペットボトルと空き缶の分類　TensorFlow + Keras（2）
+  - ハンズオン11：GAN 手書き数字の生成
+  - ハンズオン12：人工知能 Cloud APIの利用（Azure, Google, AWS）
 
 Made with love by [https://kokensha.xyz](https://kokensha.xyz)
 
