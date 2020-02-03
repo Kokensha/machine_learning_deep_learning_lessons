@@ -2,7 +2,7 @@
 
 ## [ハンズオン注意事項](handson_rules_.md)
 
-## [ハンズオン全体計画](handson_plan_.md)
+## [ハンズオン全体計画](handson_plan.md)
 
 ## [ハンズオン1回目 機械学習あやめの分類](handson01.md)
 
