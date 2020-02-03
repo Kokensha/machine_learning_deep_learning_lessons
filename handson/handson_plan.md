@@ -53,10 +53,18 @@
 
 * [handson05.md](handson05.md)
 
-* CNN 画像学習　CIFAR-10 + PyTorch
 
 
 # 第6回
+
+* [handson06.md](handson06.md)
+
+* MNIST + PyTorch
+
+* CNN 画像学習　CIFAR-10 + PyTorch
+
+
+# 第7回
 
 * TensorFlowとKeras
 
@@ -64,11 +72,10 @@
 
 * CNN Fashion認識　FashionMNIST + TensorFlow + Keras
 
-# 第7回
-
-* 転移学習 花ウェブアプリ　TensorFlow + Keras（1）
 
 # 第8回
+
+* 転移学習 花ウェブアプリ　TensorFlow + Keras（1）
 
 * 転移学習 花ウェブアプリ　TensorFlow + Keras（2）
 
