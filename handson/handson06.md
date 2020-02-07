@@ -18,12 +18,15 @@
 
 * [書籍](https://amzn.to/2u1tFBu) のP５０−P５8
 
-## PyTorchでMNIST手書き数字認識（書籍の04-07）
 
-* https://github.com/Kokensha/book-ml/blob/master/Colaboratory/04_07(PyTorch_MNIST).ipynb
+## https://github.com/kawashimaken/salon/tree/master/pytorch
 
-## PyTorchでCFAR-10 十種類の画像認識（書籍の04-08）
-* https://github.com/Kokensha/book-ml/blob/master/Colaboratory/04_08(PyTorch_CIFAR_10).ipynb
+
+* 参考： 
+ - PyTorchでMNIST手書き数字認識（書籍の04-07）
+ - https://github.com/Kokensha/book-ml/blob/master/Colaboratory/04_07(PyTorch_MNIST).ipynb
+ - PyTorchでCFAR-10 十種類の画像認識（書籍の04-08）
+ -  https://github.com/Kokensha/book-ml/blob/master/Colaboratory/04_08(PyTorch_CIFAR_10).ipynb
 
 
 # 質疑応用
