@@ -16,13 +16,10 @@
 
 ## CNN：畳み込みニューラルネットワークの学習の詳説
 
-* [書籍](https://amzn.to/2u1tFBu) のP５０−P５8
+* https://github.com/kawashimaken/salon/tree/master/pytorch
 
 
-## https://github.com/kawashimaken/salon/tree/master/pytorch
-
-
-* 参考： 
+* 参考：[書籍](https://amzn.to/2u1tFBu) のP５０−P５8
  - PyTorchでMNIST手書き数字認識（書籍の04-07）
  - https://github.com/Kokensha/book-ml/blob/master/Colaboratory/04_07(PyTorch_MNIST).ipynb
  - PyTorchでCFAR-10 十種類の画像認識（書籍の04-08）
