@@ -60,3 +60,7 @@ https://github.com/Kokensha/book-ml
 # 川島のITスキルサロンのRepo
 
 https://github.com/kawashimaken/salon
+
+Pythonプログラミング（他のプログラミング全般）や、深層学習に関する指導をご希望の方は、川島のITスキルサロンの入会をご検討ください。https://note.com/kawashimaken/m/me13f2d6e0ab8
+
+
