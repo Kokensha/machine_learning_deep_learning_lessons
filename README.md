@@ -33,7 +33,7 @@ MITライセンスですが、商用の場合は事前にご連絡いただき�
   - [ハンズオン04：　ニューラルネットワーク 手書き数字認識　MINIST + Chainer](handson/handson04.md)
   - [ハンズオン05：　CNNの詳説（畳み込みニューラルネットワークの学習）](handson/handson05.md)
   - [ハンズオン06：　PyTorch+MNIST & PyTorch+ CIFAR-10](handson/handson06.md)
-  - ハンズオン07：TensorFlowとKeras、CNN 手書き数字認識　MNIST + TensorFlow + Keras、CNN Fashion認識　FashionMNIST + TensorFlow + Keras
+  - [ハンズオン07：TensorFlowとKeras、CNN 手書き数字認識　MNIST + TensorFlow + Keras、CNN Fashion認識　FashionMNIST + TensorFlow + Keras](handson/handson07.md)
   - ハンズオン08：転移学習 花ウェブアプリ　TensorFlow + Kera
   - ハンズオン09：転移学習 ペットボトルと空き缶の分類　TensorFlow + Keras（1）
   - ハンズオン10：転移学習 ペットボトルと空き缶の分類　TensorFlow + Keras（2）
