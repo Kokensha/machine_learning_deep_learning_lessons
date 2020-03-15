@@ -10,7 +10,15 @@ MITライセンスですが、商用の場合は事前にご連絡いただき�
 
 # [01 人工知能の歴史](01_ai_history.md)
 
+## 人工知能、機械学習、人工ニューラルネットワーク、深層学習の関係
 <img src="assets/00.png" alt="AIのトピック" width="400">
+
+## 人間とコンピュータが担当するタスクの変遷
+
+<img src="assets/00-rule_base.jpeg" alt="ルールベース" width="600">
+<img src="assets/00-ml.jpeg" alt="機械学習" width="600">
+<img src="assets/00-nn.jpeg" alt="ニューラルネットワーク" width="600">
+<img src="assets/00-deep_learning.jpeg" alt="深層学習" width="600">
 
 # [02 機械学習・深層学習の基礎](02_basics.md)
 
