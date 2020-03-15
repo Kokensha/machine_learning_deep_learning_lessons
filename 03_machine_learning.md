@@ -94,6 +94,9 @@
 
 <img src="assets/03-reinforced_learning.png" alt="hyper plane" width="800">
 
+最後、三つの学習の特徴を図解で比較してみましょう。
+
+<img src="assets/03-compare_three_types.png" alt="hyper plane" width="800">
 
 ## 学習データについて
 
