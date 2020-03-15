@@ -9,7 +9,7 @@
 
 ### 教師あり学習(supervised learning)
 
-タスク
+得意なタスク
 
 #### 分類(classification)
 
