@@ -67,6 +67,8 @@
 
 ### 教師なし学習(unsupervised learning)
 
+<img src="assets/03-data_grouping.png" alt="hyper plane" width="800">
+
 教師なし学習が向いているタスク
 
 #### クラスタリング(clustering)
