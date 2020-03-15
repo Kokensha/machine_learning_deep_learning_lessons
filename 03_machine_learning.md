@@ -11,6 +11,10 @@
 
 <img src="assets/03-supervised_learning.png" alt="教師あり学習" width="400">
 
+フォルダの名称が「正解教師ラベル」になる場合もあります。
+
+<img src="assets/03-supervised_learning_folder_lavel.png" alt="教師あり学習" width="400">
+
 得意なタスク
 
 #### 分類(classification)
