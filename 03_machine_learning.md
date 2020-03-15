@@ -101,6 +101,19 @@
 
 <img src="assets/03-01-data.png" alt="データセットの分け方" width="400">
 
+## 過学習
+
+## 次元の呪い
+
+## データの入手
+
+* 自分でデータを作る
+
+* インターネットスクレイピング
+
+* 公開されているデータ（有償・無償）を活用する
+
+
 ## scikit-learn
 
 * [scikit-learn url](https://scikit-learn.org/stable/)
