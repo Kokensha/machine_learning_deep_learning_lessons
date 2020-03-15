@@ -92,6 +92,8 @@
 
 ### 強化学習
 
+<img src="assets/03-reinforced_learning.png" alt="hyper plane" width="800">
+
 
 ## 学習データについて
 
