@@ -122,7 +122,11 @@
 
 * 検証・評価フェーズ
 
+<img src="assets/03-ml_flow_01.png" alt="機械学習の流れ01" width="600">
+
 * 応用フェーズ
+
+<img src="assets/03-ml_flow_02.png" alt="機械学習の流れ02" width="600">
 
 ## scikit-learn
 
