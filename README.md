@@ -43,6 +43,14 @@ MITライセンスですが、商用の場合は事前にご連絡いただき�
 
 # [05 深層学習](05_deep_learning.md)
 
+# 06 畳み込みニューラルネットワーク（CNN）
+
+# 07 リカレントニューラルネットワーク（RNN）
+
+# 08 敵対的生成ネットワーク(GAN)
+
+# 09 転移学習(Transfer Learning)
+
 
 # [機械学習と深層学習勉強のリソース](https://gist.github.com/kawashimaken/7b7daf57a503bf73d94d0f7fe6bced9b)
 
