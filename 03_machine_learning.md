@@ -9,6 +9,8 @@
 
 ### 教師あり学習(supervised learning)
 
+<img src="assets/03-supervised_learning.png" alt="教師あり学習" width="400">
+
 得意なタスク
 
 #### 分類(classification)
