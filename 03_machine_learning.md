@@ -52,6 +52,8 @@
 
 #### 回帰(regression)
 
+<img src="assets/03-regression.png" alt="hyper plane" width="800">
+
 * ロジスティック回帰
 
 * k-近傍法（k-nearest neighbor algorithm, k-NN）
