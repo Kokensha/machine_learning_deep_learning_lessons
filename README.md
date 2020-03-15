@@ -6,14 +6,11 @@ https://note.com/kawashimaken/m/me13f2d6e0ab8
 ## しっかり伴走コースはこちらです
 https://kokensha.xyz/learn_programming_with_kawashima/
 
-
-機械学習・深層学習レッスンの構成案
-
-machine learning and deep learning lessons. 
-
 初心者のための一番分かりやすい、効果的な日本語「機械学習・深層学習」教材作りを目指しています。
 
-# MITライセンスですが、商用の場合は事前にご連絡いただきますようお願い致ます。
+# 内容について
+
+MITライセンスですが、商用の場合は事前にご連絡いただきますようお願い致ます。
 
 # 目次
 
