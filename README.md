@@ -1,3 +1,6 @@
+# 下記の内容について継続的なサポートが必要な方は、川島のITスキルサロンの入会をご検討ください。
+https://note.com/kawashimaken/m/me13f2d6e0ab8
+
 機械学習・深層学習レッスンの構成案
 
 machine learning and deep learning lessons. 
