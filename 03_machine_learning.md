@@ -16,6 +16,9 @@
 
 ## 学習の種類
 
+### 主に三種類
+
+<img src="assets/03-3_types_ml.png" alt="データセットの分け方" width="400">
 
 ### 教師あり学習(supervised learning)
 
