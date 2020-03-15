@@ -15,10 +15,10 @@ MITライセンスですが、商用の場合は事前にご連絡いただき�
 
 ## 人間とコンピュータが担当するタスクの変遷
 
-<img src="assets/00-rule_base.jpeg" alt="ルールベース" width="600">
-<img src="assets/00-ml.jpeg" alt="機械学習" width="600">
-<img src="assets/00-nn.jpeg" alt="ニューラルネットワーク" width="600">
-<img src="assets/00-deep_learning.jpeg" alt="深層学習" width="600">
+<img src="assets/00-rule_base.jpeg" alt="ルールベース" width="800">
+<img src="assets/00-ml.jpeg" alt="機械学習" width="800">
+<img src="assets/00-nn.jpeg" alt="ニューラルネットワーク" width="800">
+<img src="assets/00-deep_learning.jpeg" alt="深層学習" width="800">
 
 # [02 機械学習・深層学習の基礎](02_basics.md)
 
