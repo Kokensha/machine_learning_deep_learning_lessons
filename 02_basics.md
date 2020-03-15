@@ -55,6 +55,8 @@
 
 ## 02-06 重要ライブラリの基礎
 
+* OpenCV(Python)
+
 * SciPy
 
 * NumPy
