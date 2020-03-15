@@ -3,7 +3,7 @@
 
 * 機械学習深層理解への学習の最短路（概念編）
 
-* 機械学習深層理解への学習の最短路（書籍編）
+* 機械学習深層理解への学習の最短路（書籍編）https://note.com/kawashimaken/n/nd1d631aa0e77
 
 ## 02-01 First, be a good man/woman.
 
