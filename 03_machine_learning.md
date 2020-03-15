@@ -4,6 +4,12 @@
 
 機械学習は人間が明示的にプログラミングせずに、コンピュタがデータから学習できるためのプログラミングの手法です。
 
+よくあるのは、分類です。
+
+<img src="assets/03-classfication_01.png" alt="hyper plane" width="800">
+
+<img src="assets/03-classfication_02.png" alt="hyper plane" width="800">
+
 ## 学習データについて
 
 <img src="assets/03-01-data.png" alt="データセットの分け方" width="400">
