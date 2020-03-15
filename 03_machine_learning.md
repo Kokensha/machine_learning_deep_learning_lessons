@@ -15,7 +15,7 @@
 
 <img src="assets/03-supervised_learning_folder_label.png" alt="教師あり学習" width="600">
 
-得意なタスク
+教師あり学習が向いているタスク
 
 #### 分類(classification)
 
@@ -50,7 +50,7 @@
 
 ### 教師なし学習(unsupervised learning)
 
-タスク
+教師なし学習が向いているタスク
 
 #### クラスタリング(clustering)
 
