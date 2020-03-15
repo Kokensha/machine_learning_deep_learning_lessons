@@ -131,3 +131,5 @@
 * [scikit-learn url](https://scikit-learn.org/stable/)
 
 * scikit-learnの実戦
+
+例題はこちらをご参照ください：https://github.com/kawashimaken/salon/tree/master/scikit-learn
