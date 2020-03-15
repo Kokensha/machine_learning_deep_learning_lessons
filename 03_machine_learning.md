@@ -52,6 +52,8 @@
 
 #### 回帰(regression)
 
+↓　線形回帰の場合
+
 <img src="assets/03-regression.png" alt="hyper plane" width="800">
 
 * ロジスティック回帰
