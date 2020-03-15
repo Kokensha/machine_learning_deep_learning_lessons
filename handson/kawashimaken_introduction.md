@@ -18,6 +18,9 @@
 
 
 * 会社HP　: https://www.it-kokensha.com/
+* 川島のITスキルサロン : https://note.com/kawashimaken/m/me13f2d6e0ab8
+* 川島のガッツリプログラミング伴走コース　: https://kokensha.xyz/learn_programming_with_kawashima/
+* MENTA : https://menta.work/plan/1582
 * 技術ブログ　: https://kokensha.xyz/
 * note　:　https://note.mu/kawashimaken
 * GitHub : https://github.com/kawashimaken
