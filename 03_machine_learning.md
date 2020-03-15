@@ -87,7 +87,7 @@
 
 * PCA
 
-  - <img src="assets/03-pca.jpg" alt="PCA" width="800">
+<img src="assets/03-pca.jpg" alt="PCA" width="800">
 
 
 ### 強化学習
