@@ -19,7 +19,6 @@ https://kokensha.xyz/learn_programming_with_kawashima/
 
 * MITライセンスですが、商用の場合は、事前にご連絡いただきますようお願い致ます。
 
-* 有料の勉強会でのご利用はご遠慮ください。
 
 
 # 目次
